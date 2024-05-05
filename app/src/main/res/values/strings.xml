@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalcIdade</string>
+    <string name="diaNasc">Digite o seu dia de Nascimento</string>
+    <string name="mesNasc">Digite o seu mês de Nascimento</string>
+    <string name="anoNasc">Digite o seu ano de Nascimento</string>
+    <string name="calc">Calcular</string>
+    <string name="res"> </string>
+</resources>
